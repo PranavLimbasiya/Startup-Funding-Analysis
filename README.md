@@ -19,8 +19,8 @@ A page focused on the geographical distribution of funding and funding-round ana
 ## Tools Used
 
 - Microsoft Power BI Desktop
-- Power Query (for data preparation, if used in the report)
-- DAX (for measures and calculations, if used in the report)
+- Power Query (for data preparation)
+- DAX (for measures and calculations)
 
 ## How to Open the Dashboard
 
